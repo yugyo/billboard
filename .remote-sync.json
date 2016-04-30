@@ -1,0 +1,15 @@
+{
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "127.0.0.1",
+  "port": "2222",
+  "target": "/home/vagrant/billboard",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "vagrant",
+  "password": "vagrant",
+  "transport": "scp"
+}
